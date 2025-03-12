@@ -6,4 +6,4 @@ This application aims to simulate the virtual memory management of an Operating 
 Java; SpringBoot; JavaScript; TypeScript; HTML; CSS; React.
 
 ### Idealization:
-The system requirements can be found at https://docs.google.com/document/d/1Rbqy0eEVczVZpRftw8w6yR0idnXdRBEJcrbTVT3A6Ls/edit?usp=drive_link.
+The system requirements can be found at [this link](https://docs.google.com/document/d/1Rbqy0eEVczVZpRftw8w6yR0idnXdRBEJcrbTVT3A6Ls/edit?usp=drive_link).
